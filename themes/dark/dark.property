@@ -1,0 +1,27 @@
+*background: 		rgb:2E/34/40
+*foreground:		rgb:D8/DE/E9
+!Black
+*color0:		rgb:BF/C2/D3
+*color8:     		rgb:D8/DE/E9
+!Red
+*color1:     		rgb:A5/5A/7E
+*color9:     		rgb:BF/61/6A
+!Green
+*color2:     		rgb:56/91/84
+*color10:     		rgb:A3/BE/8C
+!Yellow
+*color3:     		rgb:FF/D5/73
+*color11:     		rgb:EB/CB/8B
+!Blue
+*color4:     		rgb:5F/BA/D6
+*color12:		rgb:81/A1/C1
+!Magenta
+*color5:     		rgb:B4/8E/AD
+*color13:     		rgb:FF/A1/9F
+!Cyan
+*color6:     		rgb:88/C0/D0
+*color14:     		rgb:73/D2/D4
+!Write
+*color7:     		rgb:5F/61/7B
+*color15:     		rgb:4C/56/6A
+

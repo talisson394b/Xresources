@@ -1,0 +1,26 @@
+! .Xresources 
+! ~/.Xresources.d/themes/nord-light
+! Credits: www.nordtheme.com
+! Nord Light
+
+*background:	rgb:EB/EA/F2
+*foreground:	rgb:00/4f/7c
+
+*color0:	rgb:35/35/35
+*color1:	rgb:E6/45/69 
+*color2:	rgb:89/D2/87
+*color3:	rgb:DA/B7/52
+*color4:	rgb:43/9E/CF
+*color5:	rgb:D9/61/DC
+*color6:	rgb:64/AA/AF
+*color7:	rgb:B3/B3/B3
+
+*color8:	rgb:53/53/53
+*color9:	rgb:E4/85/9A
+*color10:	rgb:A2/CC/A1
+*color11:	rgb:E1/E3/87
+*color12:	rgb:6F/BB/E2
+*color13:	rgb:E5/86/E7
+*color14:	rgb:96/DC/DA
+*color15:	rgb:DE/DE/DE
+

@@ -1,0 +1,26 @@
+! .Xresources
+! ~/.Xresources.d/themes/flat
+! Credits: www.github.com/Mayccoll/Gogh
+! Flat
+
+background:	rgb:1F/2D/3A
+foreground:	rgb:1a/bc/9c
+
+*color0:	rgb:2c/3e/50
+*color1:	rgb:c0/39/2b
+*color2:	rgb:27/ae/60
+*color3:	rgb:f3/9c/12
+*color4:	rgb:29/80/b9
+*color5:	rgb:8e/44/ad
+*color6:	rgb:16/a0/85
+*color7:	rgb:bd/c3/c7
+
+*color8:	rgb:34/49/5e
+*color9:	rgb:e7/4c/3c
+*color10:	rgb:2e/cc/71
+*color11:	rgb:f1/c4/0f
+*color12:	rgb:34/98/db
+*color13:	rgb:9b/59/b6
+*color14:	rgb:2A/A1/98
+*color15:	rgb:ec/f0/f1
+

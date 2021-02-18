@@ -1,0 +1,26 @@
+! .Xresources
+! ~/.Xresources.d/themes/nord
+! Credits: www.nordtheme.com
+! Nord
+
+*foreground:	rgb:D8/DE/E9
+*background:	rgb:2E/34/40
+
+*color0:	rgb:3B/42/52
+*color1:     	rgb:BF/61/6A
+*color2:     	rgb:A3/BE/8C
+*color3:     	rgb:EB/CB/8B
+*color4: 	rgb:81/A1/C1
+*color5:     	rgb:B4/8E/AD
+*color6:     	rgb:88/C0/D0
+*color7:     	rgb:E5/E9/F0
+
+*color8:     	rgb:4C/56/6A
+*color9:     	rgb:BF/61/6A
+*color10:     	rgb:A3/BE/8C
+*color11:     	rgb:EB/CB/8B
+*color12:	rgb:81/A1/C1
+*color13:     	rgb:B4/8E/AD
+*color14:     	rgb:8F/BC/BB
+*color15:     	rgb:EC/EF/F4
+

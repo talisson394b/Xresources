@@ -1,0 +1,25 @@
+! Xresources
+! ~/.Xresources.d/themes/_bash
+! CREDITS: https://maycooll.github.io/Gogh/
+! Pallette Name: Bash
+
+*background:	rgb:29/2d/3e
+*foreground: 	rgb:bf/c7/d5
+! Dark colors
+*color0:	rgb:29/2d/3e
+*color1:	rgb:f0/71/78
+*color2:	rgb:c3/e8/8d
+*color3:	rgb:ff/cb/68
+*color4:	rgb:82/aa/ff
+*color5:	rgb:c7/92/ea
+*color6:	rgb:60/ad/ec
+*color7:	rgb:ab/b2/bf
+! Light colors
+*color8:	rgb:95/9d/cb
+*color9:	rgb:f0/71/78
+*color10:	rgb:c3/e8/8d
+*color11:	rgb:ff/cb/6b
+*color12:	rgb:82/aa/ff
+*color13:	rgb:ff/cb/6b
+*color14:	rgb:67/6e/95
+*color15:	rgb:ff/fe/fe

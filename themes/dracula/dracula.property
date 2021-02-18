@@ -1,0 +1,25 @@
+! .Xresources
+! ~/.Xresources.d/themes/atom/atom.property
+! Credits: www.github.com/Mayccoll/Gogh/
+! Dracula
+
+*background:		rgb:28/2A/36
+*foreground:		rgb:F8/F8/F2
+
+*color0:		rgb:00/00/00
+*color1:     		rgb:FF/55/55
+*color2:     		rgb:50/FA/7B
+*color3:     		rgb:F1/FA/8C
+*color4:     		rgb:62/72/A4
+*color5:     		rgb:FF/79/6C
+*color6:     		rgb:8B/E9/FD
+*color7:     		rgb:BF/BF/BF
+
+*color8:     		rgb:4D/4D/4D
+*color9:     		rgb:FF/6E/67
+*color10:     		rgb:5A/F7/8E
+*color12:		rgb:CA/A9/FA
+*color13:     		rgb:FF/92/D0
+*color14:     		rgb:9A/ED/FE
+*color15:     		rgb:E6/E6/E6
+

@@ -1,0 +1,25 @@
+! .Xresources
+! ~/.Xresources.d/themes/atom
+! Credits: www.github.com/Mayccoll/Gogh
+! Atom
+
+*background: 	rgb:16/17/19 
+*foreground:	rgb:c5/c8/c6 
+
+*color0: 	rgb:00/00/00 
+*color1: 	rgb:fd/5f/f1 
+*color2: 	rgb:87/c3/8a 
+*color3: 	rgb:ff/d7/b1 
+*color4: 	rgb:85/be/fd 
+*color5: 	rgb:b9/b6/fc 
+*color6: 	rgb:85/be/fd 
+*color7: 	rgb:e0/e0/e0 
+
+*color8: 	rgb:00/00/00 
+*color9: 	rgb:fd/5f/f1 
+*color10: 	rgb:94/fa/36 
+*color11: 	rgb:f5/ff/a8 
+*color12: 	rgb:96/cb/fe 
+*color13: 	rgb:b9/b6/fc 
+*color14: 	rgb:85/be/fd 
+*color15: 	rgb:e0/e0/e0 
